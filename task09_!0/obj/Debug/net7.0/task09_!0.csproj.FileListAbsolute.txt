@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\task09_!0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\task09_!0.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\task09_!0.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\task09_!0.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\bin\Debug\net7.0\task09_!0.exe
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\bin\Debug\net7.0\task09_!0.deps.json
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\bin\Debug\net7.0\task09_!0.runtimeconfig.json
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\bin\Debug\net7.0\task09_!0.dll
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\bin\Debug\net7.0\task09_!0.pdb
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\task09_!0.dll
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\refint\task09_!0.dll
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\task09_!0.pdb
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\task09_!0.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tasks\task09_!0\task09_!0\obj\Debug\net7.0\ref\task09_!0.dll
